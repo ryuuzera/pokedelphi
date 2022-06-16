@@ -2,7 +2,7 @@
 
 - [Fagner Menezes](https://www.github.com/ryuuzera)
 
-#### Aplicação desenvolvida em Delphi 10.3 (Tokyo) em VCL utilizando os componentes nativos, 
+#### Aplicação desenvolvida no Delphi 10.3 (Tokyo) em VCL utilizando os componentes nativos, 
 #### sem utilização de Skins.
 
 Desenvolvi para melhorar minhas habilidades em consumir APIs REST.
