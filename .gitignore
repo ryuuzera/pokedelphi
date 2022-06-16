@@ -1,0 +1,6 @@
+*.dcu
+Project/__history/*.*
+__history/*.*
+src/View/__history/*.*
+src/Controller/__history/*.*
+
